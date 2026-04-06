@@ -5,8 +5,9 @@ Allows users to track income, expenses, and understand spending patterns through
 an interactive and responsive interface.
 
 ## 🔗 Links
-- **Live Demo:** [your vercel link here]
-- **Repository:** [your github link here]
+- **Live Demo:** https://finance-dashboard-amber-sigma.vercel.app
+- **Repository:** https://github.com/bhumikaj12/finance-dashboard
+
 
 ---
 
